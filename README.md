@@ -2,7 +2,7 @@
 Link field styled as button.
 
 ## About
-Github: https://github.com/maoberlehnerdrupal/glacier_content_blocks_button
+Github: https://github.com/drupalglacier/glacier_content_blocks_button
 
 ### Author
 Markus Oberlehner  
